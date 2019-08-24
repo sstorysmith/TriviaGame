@@ -1,0 +1,100 @@
+body {
+    color: #222222;
+    font-size: 1em;
+    font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+     color: '#777';
+   
+  border-color: red;
+     background-image: url("/assets/images/linkedinheadshot.jpg");
+     width: '960px';
+     font-size: '18px';
+
+sans-serif;
+}
+
+/* .content-footer,
+.masthead-heading,
+.masthead-intro {
+  text-align: center;
+}
+
+
+header{
+  background: '#ebebeb'
+}
+
+
+#footer {
+  padding: 20px 0;
+  text-align: center;
+  background-color: #111111;
+  text-decoration: none;
+}
+
+#footer a {
+  color: #ffffff;
+  background: '#ebebeb'
+}
+.social > li {
+  display: inline-block;
+  margin: 0 5px;
+}
+
+.myClass {
+  margin:2em;
+}
+
+
+
+.gridcontent {
+  width: 8.33%;
+  margin: 0;
+  border-right: 1px solid grey;
+  height: 100%;
+  float: left;
+  background-color: #84c754;
+  background-color: #f1f1f1;
+}
+
+    /* responsive screen sizes */
+        /* This is for targetting tablets */
+        @media only screen 
+            and (min-device-width: 768px) 
+            and (max-device-width: 1024px) 
+            and (-webkit-min-device-pixel-ratio: 1) 
+            
+
+            /* This is for targeting cellphones */
+            @media only screen 
+            and (min-device-width: 320px) 
+            and (max-device-width: 568px) 
+            and (-webkit-min-device-pixel-ratio: 2) 
+                
+            
+      /* important for responsivness
+      The CSS box-sizing property allows us to include the padding and border
+      in an element's total width and height. */
+        
+  
+  * {
+    box-sizing: border-box;
+  }
+  
+  
+  .gridwrapper {
+    overflow: auto;
+    position: relative;
+    height: 250px;
+  }
+  
+  .gridcontent {
+    width: 8.33%;
+    margin: 0;
+    border-right: 1px solid grey;
+    height: 100%;
+    float: left;
+    background-color: #84c754;
+    background-color: #f1f1f1;
+  }
+ 
+  */
