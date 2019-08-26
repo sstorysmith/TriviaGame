@@ -1,16 +1,66 @@
-body {
-    color: #222222;
-    font-size: 1em;
-    font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
-     color: '#777';
-   
-  border-color: red;
-     background-image: url("/assets/images/linkedinheadshot.jpg");
-     width: '960px';
-     font-size: '18px';
-
-sans-serif;
+.mystyle {
+  width: 100%;
+  padding: 25px;
+  background-color:yellow;
+  border: 5px solid ;
+  border-color: coral;    
+  color: white;
+  font-size: 25px;
+  text-align: center;
+  
 }
+
+.clock {
+  width: 50%;
+  padding: 25px;
+  background-color:blueviolet;
+  border: 5px solid ;
+  border-color: coral;    
+  color: white;
+  font-size: 25px;
+  text-align: center;
+  
+}
+.innerdiv {
+  width: 100%;
+  padding: 25px;
+  background-color:green; 
+  border: 5px solid ;
+  border-color:white;    
+  color:orange;
+  font-size: 25px;
+  text-align: center;
+
+}
+
+.question {
+  float: left;
+  width: 40%;
+  padding: 25px;
+  background-color:brown; 
+  border: 5px solid ;
+  border-color:black;    
+  color:orange;
+  font-size: 25px;
+  text-align: center;
+  /* background-image: url(../images/2-advanced.jpg); */
+  background-size: 100%;
+  border-color: coral;
+
+}
+
+.mystartbutton {
+    background-color: blue;
+    color:white;
+}
+
+body{
+border: 5px solid ;
+border-color: coral;    
+}
+
+ 
+
 
 /* .content-footer,
 .masthead-heading,
